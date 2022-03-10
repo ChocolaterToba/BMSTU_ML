@@ -1,0 +1,1 @@
+jupyter nbconvert --to pdf --template=../common/template.tplx lab_2.ipynb
